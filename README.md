@@ -1,2 +1,2 @@
 # StudiiesEng
-Projects made during engineering studies 
+Projects made during engineering studies in Java
